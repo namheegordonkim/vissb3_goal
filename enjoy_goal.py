@@ -74,7 +74,7 @@ class AppState:
 
         # Initialize GUI state parameters
         self.color_code = 0  # Color coding for different visual elements.
-        self.curriculum_stage = 2
+        self.curriculum_stage = 8
         self.data_playing = False
         self.dataset_frame = 0
         self.deterministic = False
